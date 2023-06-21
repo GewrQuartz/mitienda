@@ -1,0 +1,255 @@
+{
+    "sliders": {
+        "builder": true,
+        "name": "Sliders",
+        "element": {
+            "images": {
+                "slider": {
+                    "size": "1220x750"
+                }
+            },
+            "link": "text",
+            "modal": true
+        }
+    },
+
+    "banners_top": {
+        "builder": true,
+        "name": "Banners Top",
+        "element": {
+            "images": {
+                "image": {
+
+                }
+            },
+
+            "title": "text",
+            "label": "text",
+            "label_background": {
+                "type": "dropdown",
+                "options": {
+                    "red": "Red",
+                    "green": "Green",
+                    "blue": "Blue",
+                    "yellow": "Yellow",
+                    "gray": "Gray",
+                    "dark": "Dark",
+                    "teal": "Teal"
+                }
+            },
+            "size": {
+                "type": "dropdown",
+                "options": {
+                    "340x275": "340x275",
+                    "340x518": "340x518"
+                }
+            },
+            "link": "text",
+            "modal": false
+        }
+    },
+
+    "banners_middle": {
+        "builder": true,
+        "name": "Banners Middle",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "500x288"
+                }
+            },
+
+            "link": "text",
+            "modal": true
+        }
+    },
+
+    "about_page": {
+        "builder": true,
+        "name": "About Page",
+        "content": {
+            "page_title": "text",
+            "description": "textarea"
+        }
+    },
+
+    "faq_page": {
+        "builder": true,
+        "name": "FAQ Page",
+        "content": {
+            "page_title": "text",
+            "description": "textarea-nic"
+        }
+    },
+
+    "contact_page": {
+        "builder": true,
+        "name": "Contact Page",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "800x964"
+                }
+            },
+            "title": "text",
+            "description": "textarea"
+        }
+    },
+
+
+
+    "subscribe": {
+        "builder": true,
+        "name": "Subscribe Section",
+        "content": {
+            "text": "text"
+        }
+    },
+
+    "social_icon": {
+        "builder": true,
+        "name": "Social Icons",
+        "element": {
+            "title": "text",
+            "social_icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+
+    "footer": {
+        "builder": true,
+        "name": "Footer",
+        "content": {
+            "images":{
+                "payment_methods":{
+                    "size": "250x30"
+                }
+            },
+            "cell_number": "text",
+            "email": "text",
+            "contact_address": "textarea",
+            "footer_note": "textarea",
+            "copyright_text": "text"
+
+        }
+    },
+
+    "register_page": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Register Page",
+        "content": {
+            "images":{
+                "image":{
+                    "size": "750x979"
+                }
+            },
+            "title": "text",
+            "description": "textarea"
+        }
+    },
+
+    "login_page": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Login Page",
+        "content": {
+            "images":{
+                "image":{
+                    "size": "600x840"
+                }
+            },
+            "title": "text",
+            "description": "textarea"
+        }
+    },
+
+    "forgot_password_page": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Forgot Password Page",
+        "content": {
+            "images":{
+                "image":{
+                    "size": "600x840"
+                }
+            },
+            "title": "text",
+            "description": "textarea"
+        }
+    },
+
+    "code_verify_page": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Code Verify Page",
+        "content": {
+            "images":{
+                "image":{
+                    "size": "600x840"
+                }
+            },
+            "title": "text",
+            "description": "textarea"
+        }
+    },
+
+    "reset_password_page": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Reset Password Page",
+        "content": {
+            "images":{
+                "image":{
+                    "size": "600x840"
+                }
+            },
+            "title": "text",
+            "description": "textarea"
+        }
+    },
+
+    "authorize_email_page": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Authorize Email Page",
+        "content": {
+            "images":{
+                "image":{
+                    "size": "600x840"
+                }
+            },
+            "title": "text",
+            "description": "textarea"
+        }
+    },
+
+    "authorize_sms_page": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Authorize SMS Page",
+        "content": {
+            "images":{
+                "image":{
+                    "size": "600x840"
+                }
+            },
+            "title": "text",
+            "description": "textarea"
+        }
+    },
+
+
+    "pages": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Pages",
+        "element": {
+            "page_title": "text",
+            "description": "textarea-nic",
+            "modal":false
+        }
+
+    }
+}
